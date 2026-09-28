@@ -1,0 +1,6 @@
+{
+  "name": "ViralShorts AI",
+  "description": "Auto-extract viral 9:16 vertical shorts from long-form YouTube URLs with Gemini AI, WorkManager pipeline, kinetic subtitles, and ExoPlayer preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
